@@ -1,0 +1,20 @@
+@charset "utf-8";
+li {display:inline;text-decoration:none;}
+a{text-decoration: none;color: black;}
+#tasiyici{height:800px}
+#baslik{position:relative;left:150px;width: 100px;height: 90px;background-repeat: no-repeat}
+#menu{
+	position:relative;
+	left:280px;
+	bottom:89px;
+	width:900px;
+}
+
+#kategori1{font-size:30px;position:relative;left:0px;}
+#kategori2{font-size:30px;position:relative;left:20px;}
+#kategori3{font-size:30px;position:relative;left:40px;}
+#kategori4{font-size:30px;position:relative;left:60px;}
+#kategori5{font-size:30px;position:relative;left:90px;}
+#kategori6{font-size:30px;position:relative;left:115px;}
+#cizgi{border:1px solid #b2b2b2 ;position:relative;bottom:40px;}
+#slider{position:relative;right:150px;}

@@ -1,0 +1,25 @@
+a:hover {color:#FF00FF;}
+a:link{text-decoration:none;}
+#kutum {
+      width:250px;
+      padding:10px;
+      border:5px solid red;
+      margin:10px;
+   }
+.araba{width:650px; height:400px; margin:100px auto}
+.sirenler{width:70px; height:38px; margin:0 auto;}
+.solsiren{width:35px; height:38px; background:#00F; border-radius:20px 0 0 0; float:left}
+.sagsiren{width:35px; height:38px; background:#C00; border-radius:0 20px 0 0; float:left}
+.camlar{width:500px; height:115px; margin:0 auto}
+.solcam{width:247px; height:115px; float:left; background:#F4F4F4; border-radius:40px 0 0 0; border-right:1px solid #C7C7C7; border-left:1px solid #C7C7C7; border-top:1px solid #C7C7C7;}
+.sagcam{width:248px; height:115px; float:left; background:#F4F4F4; border-radius:0 40px 0 0; border-right:1px solid #C7C7C7; border-top:1px solid #C7C7C7;}
+.kaporta{width:550px; height:150px; margin:2px auto; background:#30F; border-radius:20px 20px 20px 20px; z-index:2; position:relative}
+.arka{width:40px; height:120px; margin:-130px 0 0 10px; float:left}
+.stoklamba{width:5px; height:70px; background:#960; margin:0 0 0 36px}
+.egzoz{width:30px; height:10px; background:#000; margin:17px 0 0 11px; border-radius:5px 0 0 5px}
+.onler{width:30px; height:100px; float:right; margin:-131px 20px 0 0}
+.on{width:8px; height:80px; box-shadow:2px 1px 4px #9F0; background:#CF0; margin:0 0px 0 0; border-radius:0 10px 10px 0}
+.sollastik{width:80px; height:80px; border:3px solid #000; margin:10px 0 0 100px; border-radius:100px 100px 100px 100px; z-index:1; position:relative; background:#000}
+.saglastik{width:80px; height:80px; border:3px solid #000; border-radius:100px 100px 100px 100px; z-index:1; position:relative; margin:-85px 0 0 440px; background:#000}
+.kol{width:30px; height:4px; background:#000; margin:-95px 0 0 170px; z-index:2; position:relative}
+.kol2{width:30px; height:4px; background:#000; margin:-4px 0 0 400px; z-index:2; position:relative}
